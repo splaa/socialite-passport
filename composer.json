@@ -18,6 +18,12 @@
             "email": "johnbraun@pm.me"
         }
     ],
+    "optimize-autoloader": true,
+   "preferred-install": "dist",
+   "sort-packages": true,
+     "platform": {
+       "php": "8.0"
+     },
     "require": {
         "php": "^7.2",
         "illuminate/support": "~6|~7|~8",
